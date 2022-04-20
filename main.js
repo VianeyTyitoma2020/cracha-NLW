@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
     github: 'vianeyTyitoma',
-    youtube: 'jakelinygracielly'
+    youtube: 'jakelinygracielly',
     facebook: 'maykbrito',
     instagram: 'jakeliny.gracielly',
     twitter: 'jakelinytec'
